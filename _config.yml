@@ -43,7 +43,7 @@ features                                  :
     
   - title                                 : Community
     description                           : Group like-minded people to eat together virtually, support, and hold each other accountable.
-    fontawesome_icon_name                 : handshake-angle
+    fontawesome_icon_name                 : handshake
 
   - title                                 : Stay on Track
     description                           : Worry only about the next meal and you wil stay on track.

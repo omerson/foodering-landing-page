@@ -38,7 +38,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Simple and Sustainable
-    description                           : No Calories counting, macro tracking, and food weighing
+    description                           : No Calories counting, macro tracking, and food weighing.
     fontawesome_icon_name                 : leaf
     
   - title                                 : Community
@@ -46,7 +46,7 @@ features                                  :
     fontawesome_icon_name                 : handshake-angle
 
   - title                                 : Stay on Track
-    description                           : Worry about the big picture, worry only about the next meal and you wil stay on track adn reach your goal.
+    description                           : Worry only about the next meal and you wil stay on track.
     fontawesome_icon_name                 : tasks
 
 

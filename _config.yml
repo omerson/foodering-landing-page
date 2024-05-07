@@ -7,7 +7,7 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://fooderingapp.com                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://grokering.com                                      # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -24,10 +24,10 @@ enable_smart_app_banner                   : true                                
 your_name                                 :                                 
 your_link                                 :                   
 your_city                                 :                                 
-email_address                             : eomeroff.foodering@gmail.com
+email_address                             : edis@grokering.com
 facebook_username                         :                                           
-instagram_username                        : foodering_app
-twitter_username                          : foodering_app
+instagram_username                        : grokering_app
+twitter_username                          : grokering_app
 github_username                           : 
 youtube_username                          :
 mastodon_link                             : 
